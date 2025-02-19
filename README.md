@@ -1,5 +1,7 @@
-## SealDetection
-# Overview
+# Motivation
+A seal is a small, tamper-evident device placed on shipping containers
+Its primary purpose is to prevent unauthorized access or indicate if any tampering has occurred.
+
 Traditionally, a single object detection model was used to find seals in images. However, I found that expanding context around the region of interest leads to better downstream classification.
 
 Consequently, the pipeline was split into two stages:
