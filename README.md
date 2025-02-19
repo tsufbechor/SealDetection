@@ -53,7 +53,7 @@ ROI Detection Model- 95% of candidates correctly identified. Inference Time 30-4
 
 ROI Detection model optimized to not miss any Candidate(High Recall)
 
-Previous system had around less than 90% accuracy so this is big improvement.
+Previous system less than 90% accuracy so this is big improvement.
 
 # Integration
 After I finished the training the models, converted them to OpenVino format and loaded them in C++. Implemented the whole pipeline in C++. 
