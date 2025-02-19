@@ -52,4 +52,6 @@ Previous system had around less than 90% accuracy so this is big improvement.
 # Integration
 After I finished the training the models, converted them to OpenVino format and loaded them in C++. Implemented the whole pipeline in C++. 
 
+Accuracy has risen and the inference time of the whole pipeline in C++ is around 100-150ms. 
+
 New Seal system is running in multiple ports Worldwide
