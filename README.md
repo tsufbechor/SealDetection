@@ -2,7 +2,7 @@
 A seal is a small, tamper-evident device placed on shipping containers
 Its primary purpose is to prevent unauthorized access or indicate if any tampering has occurred.
 
-Accurate detection of open vs. closed sockets is crucial for preventing mechanical or electrical hazards, ensuring regulatory compliance, and maintaining operational efficiency.
+Additionaly, accurate detection of open vs. closed sockets is crucial for preventing mechanical or electrical hazards, ensuring regulatory compliance, and maintaining operational efficiency.
 
 # Old Approach
 Traditional Approach: Combined Detection and Classification​
